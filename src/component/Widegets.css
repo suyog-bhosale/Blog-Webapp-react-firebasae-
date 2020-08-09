@@ -1,0 +1,16 @@
+.Widegets {
+  flex: 0.3;
+}
+.Widegets_input {
+  display: flex;
+  align-items: center;
+  background-color: var(--tiwtter-background);
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.Widegets_input > input {
+  border: none;
+  background-color: var(--tiwtter-background);
+}
